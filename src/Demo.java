@@ -1,6 +1,7 @@
 public class Demo {
 
     public static void main(String[] args) {
-        System.out.println("Name");
+        String name = "Demo";
+        System.out.println(name);
     }
 }
