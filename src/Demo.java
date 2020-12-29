@@ -4,5 +4,6 @@ public class Demo {
         String name = "Demo";
         System.out.println(name);
         System.out.println("exit");
+        System.out.println("Hello World !!");
     }
 }
