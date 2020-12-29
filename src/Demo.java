@@ -5,5 +5,6 @@ public class Demo {
         System.out.println(name);
         System.out.println("exit");
         System.out.println("Hello World !!");
+        System.out.println("-----End-------");
     }
 }
